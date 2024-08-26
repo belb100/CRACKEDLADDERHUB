@@ -495,16 +495,16 @@ local Section = Otab:AddSection({
 	Name = "ENG"
 })
 
-Otab:AddParagraph("Discord","m1kpee")
-Otab:AddParagraph("Roblox","@Yaros1979 (m1kpe0)")
-Otab:AddParagraph("Source","open")
+Otab:AddParagraph("Discord","belb_18683")
+Otab:AddParagraph("Roblox","@belb_yt (belb)")
+Otab:AddParagraph("Source","cracked")
 
 local Section = Otab:AddSection({
 	Name = "RUS"
 })
 
-Otab:AddParagraph("Дискорд","m1kpee")
-Otab:AddParagraph("Роблокс","@Yaros1979 (m1kpe0)")
-Otab:AddParagraph("Источник","открытый")
+Otab:AddParagraph("Дискорд","belb_18683")
+Otab:AddParagraph("Роблокс","@belb_yt (belb)")
+Otab:AddParagraph("Источник","крякнутый")
 
 OrionLib:Init()
